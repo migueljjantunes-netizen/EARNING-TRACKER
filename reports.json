@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "seed1",
+    "companyName": "HERMES",
+    "title": "25H1",
+    "dateRead": "2025-09-15",
+    "tags": ["earnings"]
+  },
+  {
+    "id": "seed2",
+    "companyName": "ORACLE",
+    "title": "26Q1",
+    "dateRead": "2025-09-15",
+    "tags": ["earnings"]
+  },
+  {
+    "id": "seed3",
+    "companyName": "NAVIGATOR",
+    "title": "25Q2",
+    "dateRead": "2025-09-15",
+    "tags": ["earnings"]
+  }
+]
