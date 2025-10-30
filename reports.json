@@ -1,6 +1,6 @@
 [
   {
-    "id": "seed1",
+    "id": "e_01",
     "companyName": "HERMES",
     "title": "25H1",
     "dateRead": "2025-09-15",
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "id": "seed2",
+    "id": "e_02",
     "companyName": "ORACLE",
     "title": "26Q1",
     "dateRead": "2025-09-15",
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "id": "seed3",
+    "id": "e_03",
     "companyName": "NAVIGATOR",
     "title": "25Q2",
     "dateRead": "2025-09-15",
@@ -27,10 +27,325 @@
     ]
   },
   {
-    "id": "mhcp6twjn9gcicy9ss",
+    "id": "e_04",
+    "companyName": "OLD REPUBLIC INTERNATIONAL",
+    "title": "25Q2",
+    "dateRead": "2025-09-02",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_05",
+    "companyName": "HOWDEN JOYNERY",
+    "title": "25Q1",
+    "dateRead": "2025-08-29",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_06",
+    "companyName": "GOOGLE",
+    "title": "25Q2",
+    "dateRead": "2025-08-26",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_07",
+    "companyName": "SIEMENS EMERGY",
+    "title": "25Q2 j",
+    "dateRead": "2025-08-25",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_08",
+    "companyName": "NOVO NORDISK",
+    "title": "25Q2",
+    "dateRead": "2025-08-22",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_09",
+    "companyName": "GE VERNOVA",
+    "title": "25Q2",
+    "dateRead": "2025-08-06",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_10",
+    "companyName": "ELI LILLY",
+    "title": "250623 special call",
+    "dateRead": "2025-08-05",
+    "tags": [
+      "250623 special call"
+    ]
+  },
+  {
+    "id": "e_11",
+    "companyName": "NOVO NORDISK",
+    "title": "250729 Special call",
+    "dateRead": "2025-08-05",
+    "tags": [
+      "250729 Special call"
+    ]
+  },
+  {
+    "id": "e_12",
+    "companyName": "NOVO NORDISK",
+    "title": "250622 special call",
+    "dateRead": "2025-08-04",
+    "tags": [
+      "250622 special call"
+    ]
+  },
+  {
+    "id": "e_13",
+    "companyName": "NOVO NORDISK",
+    "title": "250508 special call",
+    "dateRead": "2025-08-04",
+    "tags": [
+      "250508 special call"
+    ]
+  },
+  {
+    "id": "e_14",
+    "companyName": "KO",
+    "title": "25q2",
+    "dateRead": "2025-07-30",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_15",
+    "companyName": "TXN",
+    "title": "250722 25q2",
+    "dateRead": "2025-07-23",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_16",
     "companyName": "EVOLUTION",
+    "title": "250717",
+    "dateRead": "2025-07-23",
+    "tags": [
+      "250717"
+    ]
+  },
+  {
+    "id": "e_17",
+    "companyName": "RYANAIR",
+    "title": "250721 25q2",
+    "dateRead": "2025-07-23",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_18",
+    "companyName": "TSMC",
+    "title": "250717 25q2",
+    "dateRead": "2025-07-22",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_19",
+    "companyName": "MICRON",
+    "title": "250625 25q3",
+    "dateRead": "2025-07-06",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_20",
+    "companyName": "TSMC",
+    "title": "25Q3",
+    "dateRead": "2025-10-29",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_21",
+    "companyName": "AKER BP",
+    "title": "25Q3",
+    "dateRead": "2025-10-29",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_22",
+    "companyName": "NOVO NORDISK",
+    "title": "251021 special call new board",
+    "dateRead": "2025-10-28",
+    "tags": [
+      "251021 special call new board"
+    ]
+  },
+  {
+    "id": "e_23",
+    "companyName": "MICRON",
     "title": "25Q4",
-    "dateRead": "2025-10-30",
+    "dateRead": "2025-10-28",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_24",
+    "companyName": "EVOLUTION",
+    "title": "25Q3",
+    "dateRead": "2025-10-25",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_25",
+    "companyName": "AUTOZONE",
+    "title": "25Q4",
+    "dateRead": "2025-10-24",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_26",
+    "companyName": "LVMH",
+    "title": "25TS3",
+    "dateRead": "2025-10-21",
+    "tags": [
+      "25TS3"
+    ]
+  },
+  {
+    "id": "e_27",
+    "companyName": "IABKR",
+    "title": "25Q3",
+    "dateRead": "2025-10-21",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_28",
+    "companyName": "LVMH",
+    "title": "25H01",
+    "dateRead": "2025-10-19",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_29",
+    "companyName": "NOVO NORDISK",
+    "title": "Special call M&A 251009",
+    "dateRead": "2025-10-17",
+    "tags": [
+      "Special call M&A 251009"
+    ]
+  },
+  {
+    "id": "e_30",
+    "companyName": "DANAHER",
+    "title": "25Q2",
+    "dateRead": "2025-10-09",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_31",
+    "companyName": "NEXT",
+    "title": "25H1",
+    "dateRead": "2025-10-08",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_32",
+    "companyName": "INPOST",
+    "title": "25H1",
+    "dateRead": "2025-10-07",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_33",
+    "companyName": "EDENRED",
+    "title": "25H01",
+    "dateRead": "2025-10-02",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_34",
+    "companyName": "OXY",
+    "title": "25Q2",
+    "dateRead": "2025-09-30",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_35",
+    "companyName": "HERMES",
+    "title": "25H01 LTS",
+    "dateRead": "2025-09-23",
+    "tags": [
+      "25H01 LTS"
+    ]
+  },
+  {
+    "id": "e_36",
+    "companyName": "TENCENT",
+    "title": "25Q2",
+    "dateRead": "2025-09-23",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_37",
+    "companyName": "NESTLE",
+    "title": "25H1",
+    "dateRead": "2025-09-17",
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "e_38",
+    "companyName": "PEPSICO",
+    "title": "250630 Elliot letter to board",
+    "dateRead": "2025-09-17",
+    "tags": [
+      "250630 Elliot letter to board"
+    ]
+  },
+  {
+    "id": "e_39",
+    "companyName": "TELEPERFORMANCE",
+    "title": "25H1",
+    "dateRead": "2025-09-16",
     "tags": [
       "earnings"
     ]
