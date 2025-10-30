@@ -4,20 +4,35 @@
     "companyName": "HERMES",
     "title": "25H1",
     "dateRead": "2025-09-15",
-    "tags": ["earnings"]
+    "tags": [
+      "earnings"
+    ]
   },
   {
     "id": "seed2",
     "companyName": "ORACLE",
     "title": "26Q1",
     "dateRead": "2025-09-15",
-    "tags": ["earnings"]
+    "tags": [
+      "earnings"
+    ]
   },
   {
     "id": "seed3",
     "companyName": "NAVIGATOR",
     "title": "25Q2",
     "dateRead": "2025-09-15",
-    "tags": ["earnings"]
+    "tags": [
+      "earnings"
+    ]
+  },
+  {
+    "id": "mhcp5ccq746sjuzis6",
+    "companyName": "GALP",
+    "title": "25Q3",
+    "dateRead": "2025-10-30",
+    "tags": [
+      "earnings"
+    ]
   }
 ]
