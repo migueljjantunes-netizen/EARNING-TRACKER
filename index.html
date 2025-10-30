@@ -256,7 +256,7 @@
       renderTagCloud();
       const disp = filteredByTag ? reports.filter(r => (r.tags || []).includes(filteredByTag)) : reports;
       if (selectedCompany) return renderReportsTable(disp.filter(r => r.companyName.toUpperCase() === selectedCompany), `Reports for ${selectedCompany}`, () => { selectedCompany = null; filteredByTag = null; render(); });
-      if (isAllReportsVisible) return renderReportsTable(disp, 'All Reports', () => { isAllReportsVisible = false; filteredByTag = null; document.getElement", dateRead: "2025-07-23", tags: autoTag("250717") },
+      if (isAllReportsVisible) return renderReportsTable(disp, 'All Reports', () => {isAllReportsVisible = false;filteredByTag = null;document.getElementById('toggle-all').textContent = 'Show All Reports';render();});
       { companyName: "RYANAIR", title: "250721 25q2", dateRead: "2025-07-23", tags: autoTag("250721 25q2") },
       { companyName: "TSMC", title: "250717 25q2", dateRead: "2025-07-22", tags: autoTag("250717 25q2") },
       { companyName: "MICRON", title: "250625 25q3", dateRead: "2025-07-06", tags: autoTag("250625 25q3") },
